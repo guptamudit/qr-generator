@@ -1,3 +1,4 @@
-# qr-generator
-# Site Link:
-https://qr-generator-09.netlify.app/
+# QrCode-generator
+A simple website to convert any link to QR Code.
+Scan the Qr and you will be redirected to the provided link.
+
